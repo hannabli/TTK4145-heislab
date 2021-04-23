@@ -1,6 +1,11 @@
 Elevator Project
 ================
 
+Assignment
+-------
+The task was to program n elevators to communicate and cooperate. 
+Link to the requirements: https://github.com/TTK4145/Project. 
+
 Initialize program
 -------
 In order to run the program, navigate to the cmd folder and write "go run main.go --id "integer id" --port "same port as simulator".
