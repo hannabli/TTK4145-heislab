@@ -1,6 +1,10 @@
 Elevator Project
 ================
 
+Initialize program
+-------
+In order to run the program, navigate to the cmd folder and write "go run main.go --id "integer id" --port "same port as simulator".
+For example: "go run main.go --id 1 --port 15657".
 
 Modules
 -------
